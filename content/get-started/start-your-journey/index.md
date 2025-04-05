@@ -1,4 +1,4 @@
----
+---0
 title: Start your journey
 intro: 'Learn the basics of {% data variables.product.github %}.'
 versions:
